@@ -1,4 +1,4 @@
-# Bisaection search in strings
+# Bisection search in strings
 
 This is part MITx 600 coursework.
 
